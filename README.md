@@ -4,6 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-de4604?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelaubom@gmail.com)](mailto:miguelaubom@gmail.com)
 
 Front-end web developer constantly learning
- <p>
-  <img width="250" align='left' src="https://giphy.com/embed/5wWf7H89PisM6An8UAU?raw=true">
-</p>
+<div class="tenor-gif-embed" data-postid="5547850" data-share-method="host" data-width="100%" data-aspect-ratio="1.768"><a href="https://tenor.com/view/the-office-michael-scott-steve-carell-explain-five-gif-5547850">Let's Just Be Clear GIF</a> from <a href="https://tenor.com/search/theoffice-gifs">Theoffice GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
