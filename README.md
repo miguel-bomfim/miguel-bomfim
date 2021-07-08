@@ -1,4 +1,8 @@
-### Hi there 👋
+# Miguel Bomfim
+
+Front End Web Developer
+
+
 
 <!--
 **miguel-bomfim/miguel-bomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
