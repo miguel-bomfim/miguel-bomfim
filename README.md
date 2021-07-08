@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-de4604?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelaubom@gmail.com)](mailto:miguelaubom@gmail.com)
 
 Front-end web developer constantly learning
-<iframe src="https://giphy.com/embed/5wWf7H89PisM6An8UAU" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/editingandlayout-the-office-michael-scott-5wWf7H89PisM6An8UAU">via GIPHY</a></p>
+<img src="https://giphy.com/embed/5wWf7H89PisM6An8UAU" width="480" height="271" class="giphy-embed" allowFullScreen></img>
